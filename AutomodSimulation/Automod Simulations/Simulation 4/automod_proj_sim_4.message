@@ -1,0 +1,17 @@
+0.00: Starting.
+0.00: Datafiles have been read. Initializing model.
+0.00: No run control! Model will not end without intervention.
+0.00: Model image prepared... Ready to simulate.
+451.00: Animation step is now 2 Seconds.
+463.00: Animation step is now 4 Seconds.
+483.00: Animation step is now 8 Seconds.
+523.00: Animation step is now 16 Seconds.
+635.00: Animation step is now 32 Seconds.
+10939.00: Animation step is now 64 Seconds.
+11067.00: Animation step is now 128 Seconds.
+14400.00: Truck sent
+14451.14: Truck has arrived
+14974.80: Delay time:   8.73min
+28043.37: The production finished earlier
+28800.00: Truck sent
+28851.14: Anticipation time:   13.47min
